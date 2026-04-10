@@ -1,0 +1,12 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" fill="#FFF1E8"/>
+  <rect x="80" y="130" width="740" height="260" rx="36" fill="#FFD9C2"/>
+  <rect x="210" y="230" width="480" height="120" rx="20" fill="#8D3D24"/>
+  <rect x="230" y="190" width="440" height="70" rx="18" fill="#FFC5A6"/>
+  <circle cx="290" cy="180" r="22" fill="#E85B40"/>
+  <circle cx="390" cy="165" r="22" fill="#FF9C4D"/>
+  <circle cx="510" cy="168" r="22" fill="#E85B40"/>
+  <circle cx="610" cy="180" r="22" fill="#FF9C4D"/>
+  <path d="M220 260C280 300 330 220 390 260C450 300 500 220 560 260C620 300 670 220 700 250" stroke="#FFEBDD" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="470" text-anchor="middle" font-family="Sora, sans-serif" font-size="42" font-weight="700" fill="#7A2D16">Cake Shop</text>
+</svg>
